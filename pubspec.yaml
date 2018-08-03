@@ -2,7 +2,7 @@ name: flutter_index_widget
 description: A letter navigation widget like contact right letter , support custom text, touch down up listener, touch index listener. 
 version: 0.1.0
 author: Caijinglong<cjl_spy@163.com>
-homepage: 
+homepage: https://github.com/CaiJingLong/flutter_index_widget
 
 dependencies:
   flutter:
